@@ -87,7 +87,7 @@ const Sidebar = () => {
           className={`${isSidebarCollapsed ? "hidden" : "block"
             } font-extrabold text-2xl`}
         >
-          EDSTOCK
+          OMSTOCK
         </h1>
 
         <button
